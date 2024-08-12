@@ -14,3 +14,15 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Create a accout in https://www.themoviedb.org/
+usename: @salma
+password: tmdb-2024
+
+# get your API KEY
+click your profile -> settings -> api -> api key -> fill form
+
+# get API LINK
+https://api.themoviedb.org/3/movie/popular?api_key=YOUR_API
+or
+https://www.themoviedb.org/3
